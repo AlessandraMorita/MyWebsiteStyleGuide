@@ -1,0 +1,79 @@
+/* CSS HOME PAGE*/
+
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background-image: url("../images/20180724_175147.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #000;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+p.justified {
+    text-align: justify;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color: hsla(0, 0%, 100%, 0.2);
+}
+
+nav img {
+    width: 30px;
+    padding: 30px;
+}
+
+.navegation li {
+    display: inline-block;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding: 5px 20px;
+}
+
+.banner {
+    height: 400px;
+    overflow: hidden;
+    color: #FFF;
+    margin: 0px 30px;
+}
+
+.banner h1 {
+    position: relative;
+    top: 30%;
+    margin: 10px;
+    margin-left: 20px;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.banner .quote {
+    position: relative;
+    top: 40%;
+    margin: 10px;
+    margin-left: 20px;
+    width: 240px;
+}
+
+.quote p {
+    font-size: 14px;
+    margin: 2px;
+}
+
+p.author {
+    position: relative;
+    font-size: 10px;
+    margin: 2px;
+    text-align: right;
+}

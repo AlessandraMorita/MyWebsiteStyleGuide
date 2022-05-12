@@ -1,0 +1,86 @@
+/* CSS COLOR PAGE*/
+
+.color {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.colors {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.colors div {
+    margin: 2px;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 12px;
+    color: #FFF;
+    text-align: center;
+    line-height: 1.5em;
+    width: 100px;
+    overflow-wrap: break-word;
+}
+
+.color11 {
+    background-color: #36688D;
+}
+
+.color12 {
+    background-color: #F3CD05;
+}
+
+.color13 {
+    background-color: #F49F05;
+}
+
+.color14 {
+    background-color: #F18904;
+}
+
+.color15 {
+    background-color: #BDA589;
+}
+
+.color21 {
+    background-color: #A7414A;
+}
+
+.color22 {
+    background-color: #282726;
+}
+
+.color23 {
+    background-color: #6A8A82;
+}
+
+.color24 {
+    background-color: #A37C27;
+}
+
+.color25 {
+    background-color: #563838;
+}
+
+.color31 {
+    background-color: #6C6B74;
+}
+
+.color32 {
+    background-color: #2E303E;
+}
+
+.color33 {
+    background-color: #9199BE;
+}
+
+.color34 {
+    background-color: #54678F;
+}
+
+.color35 {
+    background-color: #212624;
+}

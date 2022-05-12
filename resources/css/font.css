@@ -1,0 +1,58 @@
+/* CSS FONT PAGE*/
+
+.code {
+    font-family: 'Source Code Pro', monospace;
+    background-color: black;
+    color: lightgray;
+    overflow-wrap: break-word;
+    padding: 5px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.underlined {
+    text-decoration: underline;
+}
+
+.font {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: lightgray;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.font h2, .font p {
+    margin: 5px;
+}
+
+.font p.click {
+    text-decoration: underline;
+    font-size: 14px;
+    text-align: right;
+    margin-top: 1em;
+}
+
+.font1, .font2, .font3 {
+    background-color: #FFF;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.quicksand {
+    font-family: 'Quicksand', sans-serif;
+}
+
+main .font div:last-child {
+    margin-bottom: 0;
+}
