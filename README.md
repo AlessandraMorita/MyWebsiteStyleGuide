@@ -10,5 +10,5 @@
     Create navigation bar
     Learn padding and margin settings
            
-Live page: https://alessandramorita.github.io/MyWebsiteStyleGuide/
+Live page: https://alessandramorita.github.io/My_Website_Style_Guide_Project/
  
